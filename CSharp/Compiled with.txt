@@ -1,2 +1,8 @@
 CSC - CSharp Compiler Commandline by Microsoft
 
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-options/command-line-building-with-csc-exe
+
+
+Compiling Gui by Kres0345/nett18
+
+https://github.com/kres0345/Drag-n-Drop-CSharp/releases
